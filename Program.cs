@@ -87,6 +87,10 @@
                 Console.WriteLine($"La somma dei numeri inseriti è {somma}, la media aritmetica è {media}");
 
             }
+            else { 
+                Console.WriteLine("Non ci siamo utente, devi fare una scelta tra i 3 esercizi come indicato.");
+                Console.WriteLine("  ___ _ __ _ __ ___  _ __ \r\n / _ \\ '__| '__/ _ \\| '__|\r\n|  __/ |  | | | (_) | |   \r\n \\___|_|  |_|  \\___/|_|   ");
+            }
 
 
         }
